@@ -1,4 +1,5 @@
- npm i react-router-dom
+ <pre>
+  npm i react-router-dom
 npm install react-hook-form
 npm install react-hot-toast
 npm install react-icons --save
@@ -12,3 +13,5 @@ npm install filepond-plugin-image-preview
 npm install filepond-plugin-file-validate-type
 npm i react-player
 npm install react-bootstrap bootstrap
+
+ </pre>
